@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Development
-<br />
 
 #### Frontend Frameworks
 <img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
@@ -63,11 +62,11 @@ Here are some ideas to get you started:
 <br />
 
 #### Languages
-<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/html5-icon.svg" />
-<img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />
 <img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/typescriptlang-icon.svg" />
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/javascript-icon.svg" />
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/java-icon.svg" />
+<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/html5-icon.svg" />
+<img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />
 <img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sql-icon.svg" />
 
 <br />
