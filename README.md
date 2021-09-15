@@ -31,35 +31,62 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Design
+### UI and UX
+<img align="left" alt="Figma" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/figma-icon.svg" />
 <img align="left" alt="Adobe XD" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/adobe-xd-icon.svg" />
-<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
-<img align="left" alt="Material UI" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/material-ui-icon.svg" />
 
 <br />
 <br />
 
 ### Development
-<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/visualstudio_code-icon.svg" />
-<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker-icon.svg" />
-<img align="left" alt="VirtualBox" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/virtualbox-icon.svg" />
+<br />
+
+#### Frontend Frameworks
+<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
+<img align="left" alt="Material UI" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/material-ui-icon.svg" />
+<img align="left" alt="ReactJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
+
+<br />
+
+#### Backend Frameworks
+<img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
+<img align="left" alt="NodeJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nodejs-icon.svg" />
+<img align="left" alt="NestJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nestjs-icon.svg" />
+<img align="left" alt=".Net Framework" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/dotnet-icon.svg" />
+
+<br />
+
+#### Testing Frameworks
+
+<br />
+
+#### Languages
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/html5-icon.svg" />
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/javascript-icon.svg" />
 <img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/typescriptlang-icon.svg" />
-<img align="left" alt="ReactJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
-<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nodejs-icon.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/javascript-icon.svg" />
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/java-icon.svg" />
 <img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sql-icon.svg" />
+
+<br />
+
+#### Tools
+<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/visualstudio_code-icon.svg" />
+<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker-icon.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mysql-icon.svg" />
 <img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mongodb-icon.svg" />
+<img align="left" alt="VirtualBox" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/virtualbox-icon.svg" />
 
 <br />
 <br />
 
 ### Learning
 <img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
-<img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
+
+<br />
+<br />
+
+### Pending
 <img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
 
 <br />
