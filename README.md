@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <br />
 
 #### Testing Frameworks
+<img align="left" alt="Selenium" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/selenium-icon.svg" />
+<img align="left" alt="Cucumber" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/cucumber-icon.svg" />
 
 <br />
 
