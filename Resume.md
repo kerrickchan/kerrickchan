@@ -17,8 +17,8 @@ Clocking API         | Details
 Programming languages| Java SE 11, No Framework used
 Department           | Human Resource
 Technique            | OAuth2, Restful API
-Server               | MSSQL Server, AWS API
-Description          | Gathering punch card records from 2 POS system, 1 Face ID system and 1 Punch Card system and upload to HRMS cloud.
+Server               | MSSQL Server, HRMS(host in AWS)
+Description          | Gathering punch card records from 2 POS systems, 1 Face ID system and 1 Punch Card system and upload to HRMS cloud.
 
 
 # Working Experience
