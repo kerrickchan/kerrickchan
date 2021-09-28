@@ -6,8 +6,8 @@ Email: [eric88ordinary@gmail.com](mailto:eric88ordinary@gmail.com)<br/>
 Mobile: [68067576](tel:68067576)<br/>
 
 ## Social Network
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/github-icon.svg" />](https://github.com/ericspiPb)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/linkedin-icon.svg" />](https://linkedin.com/in/ericspiPb)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/github-icon.svg" />](https://github.com/ericspiPb)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/linkedin-icon.svg" />](https://linkedin.com/in/ericspiPb)
 <br/>
 
 # Projects
