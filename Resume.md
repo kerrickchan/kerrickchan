@@ -37,7 +37,7 @@ IT Programmer        | Details
 Duration             | Aug 2019 to Nov 2020
 Position             | IT Programmer
 Company              | Taste of Asia Group Limited
-Job Description      | <ol><li>Maintenance Internal OMS and CMS for shop order items using C# .Net Framework. add new UI field with stored procedures logic in database.</li><li>Migrating data from old system to ERP Cloud (M18, primary HCM). Setup basic information of HCM</li><li>Clocking API Project for HCM collect timecard data from 4 sources and using API upload to HCM cloud</li></ol>
+Job Description      | <ol><li>Maintenance Internal OMS and CMS for shop order items using C# .Net Framework. add new UI field with stored procedures logic in database.</li><li>Migrating data from old system to ERP Cloud (M18, primary HCM). Setup basic information of HCM</li><li>Develop Clocking API Project</li></ol>
 
 ## Support
 
@@ -48,12 +48,21 @@ Position             | IT Support
 Company              | Taste of Asia Group Limited
 Job Description      | <ol><li>Support POS Menu update</li><li>Onsite troubleshooting</li><li>Desktop Support in Office</li></ol>
 
+Helpdesk Support     | Details
+---------------------|---------------------
+Duration             | May 2017 to Nov 2018
+Position             | Desktop Support
+Company              | HGC Global Centre (Talent International Limited Secondment)
+Job Description      | <ol><li>Follow tickets for customer</li><li>Conversation between customer and technical team</li><li>Markdown tickets progress and report to supervisor
+</li></ol>
+
+
 Desktop Support      | Details
 ---------------------|---------------------
 Duration             | May 2017 to Nov 2017
 Position             | Desktop Support
 Company              | Huarong International Financial Holdings Limited (Talent International Limited Second-ment)
-Job Description      | <ol><li>Troubleshoot common user issues. Basic network assist</li><li>Maintain accounts of domain, email, Citrix VDI</li><li>Access control of share drive. Basic setup Notebook, IP phone and VC</li></ol>
+Job Description      | <ol><li>Troubleshoot common user issues</li><li>Basic network assistance</li><li>Maintain accounts of domain, email, virtual desktop (Citrix VDI)</li><li>Access control of share drive. Basic setup Notebook, IP phone and VC</li></ol>
 
 Engineer             | Details
 ---------------------|---------------------
