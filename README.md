@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  * ⚡ Fun fact: I'm playing Apex Legends
 
 ### Connect with me
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/github-icon.svg" />](https://github.com/ericspiPb)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/linkedin-icon.svg" />](https://linkedin.com/in/ericspipb)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/github-icon.svg" />](https://github.com/ericspiPb)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/linkedin-icon.svg" />](https://linkedin.com/in/ericspipb)
+[<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/file-regular.svg" />](https://github.com/ericspiPb/ericspiPb/blob/main/Resume.md)
 
 <br />
 <br />
