@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm a Developer
+# I'm a Frontend Developer
  * 🔭 I'm currently working on Goverment Hospital Authority in Hong Kong
  * 🌱 I'm currently learning design and machine learning
  * 👯 I’m looking to collaborate on website design
