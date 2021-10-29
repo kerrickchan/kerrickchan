@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/java-icon.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/html5-icon.svg" />
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sql-icon.svg" />
 
 <br />
 
 #### Tools
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/visualstudio_code-icon.svg" />
 <img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/docker-icon.svg" />
+<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sql-icon.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mysql-icon.svg" />
 <img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mongodb-icon.svg" />
 <img align="left" alt="VirtualBox" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/virtualbox-icon.svg" />
