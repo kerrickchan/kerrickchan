@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Frontend Developer
- * 🔭 I'm currently working on Goverment Hospital Authority in Hong Kong
- * 🌱 I'm currently learning design and machine learning
- * 👯 I’m looking to collaborate on website design
- * 🤔 I’m looking for full stack developer job
+ * 🔭 I'm currently working on Payment Gateway in Spectra Technology Holding Limited
+ * 🌱 I'm currently learning design
+ * 👯 I’m looking to collaborate on Web, Mobile UI/UX design
+ * 🤔 I’m looking for help with heal acne
  * 💬 I'm optimistic about the prospects of JavaScript
- * 🥅 2021 Goal: salary reach my target
+ * 🥅 2022 Goal: salary reach my target
  * ⚡ Fun fact: I'm playing Apex Legends
 
 ### Connect with me
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nodejs-icon.svg" />
 <img align="left" alt="NestJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nestjs-icon.svg" />
-<img align="left" alt=".Net Framework" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/dotnet-icon.svg" />
+<!-- <img align="left" alt=".Net Framework" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/dotnet-icon.svg" /> -->
 
 <br />
 
@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Pending
-<img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
+<!-- ### Pending
+<img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" /> -->
 
 <br />
 <br />
