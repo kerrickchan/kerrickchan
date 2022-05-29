@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm a Frontend Developer
- * 🔭 I'm currently working on Payment Gateway in Spectra Technology Holding Limited
- * 🌱 I'm currently learning design
+# I'm a Senior Frontend Developer
+ * 🔭 I'm currently working on POS Solution in Bindo Labs Limited
+ * 🌱 I'm currently learning Python > Flutter > Design > BI
  * 👯 I’m looking to collaborate on Web, Mobile UI/UX design
  * 🤔 I’m looking for help with heal acne
  * 💬 I'm optimistic about the prospects of JavaScript
- * 🥅 2022 Goal: salary reach my target
+ * 🥅 2023 Goal: find girl friend 🤩
  * ⚡ Fun fact: I'm playing Apex Legends
 
 ### Connect with me
@@ -95,4 +95,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Github Status
-[![Eric Chan's github status](https://github-readme-stats.vercel.app/api?username=ericspiPb)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericspiPb)](https://github.com/anuraghazra/github-readme-stats)   
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=ericspiPb)](https://github.com/anuraghazra/github-readme-stats)
+
