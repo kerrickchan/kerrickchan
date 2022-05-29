@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Senior Frontend Developer
- * 🔭 I'm currently working on POS Solution in Bindo Labs Limited
+ * 🔭 I'm currently working on Systems Integrator in Zoology Limited
  * 🌱 I'm currently learning Python > Flutter > Design > BI
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m looking for help with heal acne
- * 💬 I'm optimistic about the prospects of JavaScript
+ * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
  * 🥅 2023 Goal: find girl friend
  * ⚡ Fun fact: I'm playing Apex Legends
 
