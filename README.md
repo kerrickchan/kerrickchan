@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Senior Frontend Developer
- * 🔭 I'm currently working on Systems Integrator in Zoology Limited
- * 🌱 I'm currently learning Python > Flutter > Design > BI
+ * 🔭 I'm currently working in A POS Solution Company
+ * 🌱 I'm currently studying Business Information System. Will learning Flutter > Design > BI
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m looking for help with heal acne
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Learning
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/python-icon.svg" />
 <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/flutter-icon.svg" />
 <img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tableau-icon.svg" />
 <img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
