@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I'm a Senior Frontend Developer
  * 🔭 I'm currently working in A POS Solution Company
- * 🌱 I'm currently studying Business Information System. Will learning Flutter > Design > BI
+ * 🌱 I'm currently studying Business Information System. Will learning Flutter > Design > BI > AI
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m looking for help with heal acne
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
