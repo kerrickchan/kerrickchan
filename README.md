@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m looking for help with heal acne
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
- * 🥅 2023 Goal: find girl friend
+ * 🥅 2023 Goal: become Team Leader
  * ⚡ Fun fact: I'm playing Apex Legends
 
 ### Connect with me
