@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <br />
 
 #### Backend Frameworks
+<img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/directus-icon.svg" />
 <img align="left" alt="Strapi" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/strapi-icon.svg" />
 <img align="left" alt="NodeJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nodejs-icon.svg" />
 <img align="left" alt="NestJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nestjs-icon.svg" />
