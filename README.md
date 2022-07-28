@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <br><br>
 
-### UI/UX
+### Design
+#### UI/UX
 <img align="left" alt="Figma" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/figma-icon.svg" />
 <!-- not longer learning -->
 <!-- <img align="left" alt="Adobe XD" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/adobe-xd-icon.svg" /> -->
@@ -97,8 +98,9 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/mysql-icon.svg" />
 <img align="left" alt="PostgreSQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/postgresql-icon.svg" />
 
-#### OLAP
+<br><br>
 
+#### OLAP
 
 <br><br>
 
@@ -121,8 +123,13 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/flutter-icon.svg" /> -->
 <!-- pending -->
 <!-- <img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tableau-icon.svg" /> -->
+#### Design
 <img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
-<img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/amazon_aws-icon.png" />
+
+#### Cloud
+<img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/amazon_aws-icon.svg" />
+
+#### AI
 <img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
 
 
