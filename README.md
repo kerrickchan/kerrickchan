@@ -71,15 +71,15 @@ Here are some ideas to get you started:
 
 <br><br>
 
-##### Web Framework
+##### Web
 <img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/angular-icon.svg" />
 <img align="left" alt="NextJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nextjs-icon.svg" />
 
+<br><br>
 
-##### Mobile Apps
+##### Mobile
 <img align="left" alt="Expo" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/expoio-icon.svg" />
 <img align="left" alt="React Native" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
-
 
 <br><br>
 
