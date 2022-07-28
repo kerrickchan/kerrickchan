@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ##### OLAP
+N/A
 
 <br><br>
 
@@ -129,6 +130,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ### Cloud
+N/A
 
 <br><br>
 
@@ -140,12 +142,15 @@ Here are some ideas to get you started:
 #### Design
 <img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
 
+<br><br>
+
 #### Cloud
 <img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/amazon_aws-icon.svg" />
 
+<br><br>
+
 #### AI
 <img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tensorflow-icon.svg" />
-
 
 <br><br>
 
