@@ -51,17 +51,6 @@ Here are some ideas to get you started:
 <br><br>
 
 #### Frontend
-##### Library
-<img align="left" alt="ReactJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
-
-<br><br>
-
-##### Frameworks
-<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
-<img align="left" alt="Material UI" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/material-ui-icon.svg" />
-
-<br><br>
-
 ##### Styles
 <img align="left" alt="Tailwind CSS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tailwindcss-icon.svg" />
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/sass-lang-icon.svg" />
@@ -69,14 +58,35 @@ Here are some ideas to get you started:
 
 <br><br>
 
-##### Mobile
-<img align="left" alt="React Native" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tailwindcss-icon.svg" />
+##### Style Frameworks
+<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/getbootstrap-icon.svg" />
+<img align="left" alt="Material UI" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/material-ui-icon.svg" />
+
+<br><br>
+
+##### Library
+<img align="left" alt="ReactJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
+<img align="left" alt="GraphQL" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/graphql-icon.svg" />
+<img align="left" alt="RxJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/rxjs-icon.svg" />
+
+<br><br>
+
+##### Web Framework
+<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/angular-icon.svg" />
+<img align="left" alt="NextJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nextjs-icon.svg" />
+
+
+##### Mobile Apps
+<img align="left" alt="Expo" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/expoio-icon.svg" />
+<img align="left" alt="React Native" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/reactjs-icon.svg" />
+
 
 <br><br>
 
 #### Backend
 ##### Frameworks
 <img align="left" alt="NestJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/nestjs-icon.svg" />
+<!-- not longer interested -->
 <!-- <img align="left" alt=".Net Framework" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/dotnet-icon.svg" /> -->
 
 <br><br>
@@ -100,7 +110,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-#### OLAP
+##### OLAP
 
 <br><br>
 
@@ -118,10 +128,14 @@ Here are some ideas to get you started:
 
 <br><br>
 
+### Cloud
+
+<br><br>
+
 ### Learning
-<!-- pending -->
+<!-- considering -->
 <!-- <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/flutter-icon.svg" /> -->
-<!-- pending -->
+<!-- bi direction -->
 <!-- <img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/tableau-icon.svg" /> -->
 #### Design
 <img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/procreate-icon.png" />
