@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # I'm a Senior Frontend Developer
- * 🔭 I'm currently working in A Cloud Solution Company
+ * 🔭 I'm currently working in PaaS Company
  * 🌱 I'm currently studying Will learning AWS > AI(Tensorflow)
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
- * 🤔 I’m looking for help with heal acne
+ * 🤔 I’m looking for a girl friend
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
  * 🥅 2025 Goal: become Team Leader
- * ⚡ Fun fact: I'm playing Apex Legends
+ * ⚡ Fun fact: I build my fish tank
 
 ### Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/github-icon.svg" />](https://github.com/ericspiPb)
@@ -116,6 +116,7 @@ N/A
 <br><br>
 
 #### Testing Frameworks
+<img align="left" alt="JestJS" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/jestjs-icon.svg" />
 <img align="left" alt="Selenium" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/selenium-icon.svg" />
 <img align="left" alt="Cucumber" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/cucumber-icon.svg" />
 
