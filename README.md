@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm a Senior Frontend Developer
- * 🔭 I'm currently working in PaaS Company
+# I'm a Senior Frontend Engineer
+ * 💼 I'm currently working in PaaS Company
  * 🌱 I'm currently studying Will learning AWS > AI(Tensorflow)
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
- * 🤔 I’m looking for a girl friend
+ * 🤔 I’m dreaming for travel around the world
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
  * 🥅 2025 Goal: become Team Leader
- * ⚡ Fun fact: I build my fish tank
+ * ⚡ Fun fact: I built my fish tank as small ecosystem
 
 ### Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/github-icon.svg" />](https://github.com/ericspiPb)
