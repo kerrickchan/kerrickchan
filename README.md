@@ -24,11 +24,21 @@ Here are some ideas to get you started:
  * 🥅 2025 Goal: become Team Leader
  * ⚡ Fun fact: I built my fish tank as small ecosystem
 
-### Connect with me
+## Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/github-icon.svg" />](https://github.com/ericspiPb)
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/linkedin-icon.svg" />](https://linkedin.com/in/ericspipb)
 <!-- not longer updated -->
 <!-- [<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/socials/resume.svg" />](https://registry.jsonresume.org/ericspiPb) -->
+
+<br><br>
+
+## Fans
+<img align="left" alt="Apple" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/brands/apple-icon.svg" />
+<img align="left" alt="Nike" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/brands/nike-icon.svg" />
+
+<br><br>
+
+## Skills
 
 <br><br>
 
