@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 <br><br>
 
 ## Skills
-
-<br><br>
-
 ### Design
 #### UI/UX
 <img align="left" alt="Figma" width="22px" src="https://raw.githubusercontent.com/ericspiPb/ericspiPb/main/skills/figma-icon.svg" />
