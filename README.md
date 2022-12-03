@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m dreaming for travel around the world
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
- * 🥅 2025 Goal: become System Architect with eading 2 or more genuis
+ * 🥅 2025 Goal: promote to System Architect
  * ⚡ Fun fact: I built my fish tank as small ecosystem
 
 ## Connect with me
