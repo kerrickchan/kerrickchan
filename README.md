@@ -39,10 +39,9 @@
 <br><br>
 
 ### Development
-#### Languages
+#### Programming Languages
 <img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/typescriptlang-icon.svg" />
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/javascript-icon.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/python-icon.svg" />
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/java-icon.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/html5-icon.svg" />
 
@@ -116,6 +115,7 @@ N/A
 
 #### Testing Frameworks
 <img align="left" alt="JestJS" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/jestjs-icon.svg" />
+<img align="left" alt="Puppeteer" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/puppeteer-icon.svg" />
 <img align="left" alt="Selenium" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/selenium-icon.svg" />
 <img align="left" alt="Cucumber" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/cucumber-icon.svg" />
 
@@ -145,7 +145,7 @@ N/A
 
 #### Data Science
 <img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tableau-icon.svg" />
-<img align="left" alt="Puppeteer" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/puppeteer-icon.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/python-icon.svg" />
 <img align="left" alt="Airflow" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/airflow-icon.svg" />
 
 <br><br>
@@ -161,5 +161,6 @@ N/A
 <!-- considering -->
 <!-- <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/flutter-icon.svg" /> -->
 
-### Github Status
+<br><br>
+
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=kerrickchan)](https://github.com/anuraghazra/github-readme-stats)
