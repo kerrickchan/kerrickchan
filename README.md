@@ -136,8 +136,6 @@ N/A
 
 ### Learning
 
-<br><br>
-
 #### AI
 <img align="left" alt="TensorFlow" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tensorflow-icon.svg" />
 
