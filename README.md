@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/python-icon.svg" />
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/java-icon.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/html5-icon.svg" />
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/sql-icon.svg" />
 
 <br><br>
 
@@ -120,8 +119,9 @@ Here are some ideas to get you started:
 #### Databases
 ##### OLTP
 <img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mysql-icon.svg" />
+<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/sql-icon.svg" />
 <img align="left" alt="PostgreSQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
+<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mysql-icon.svg" />
 
 <br><br>
 
