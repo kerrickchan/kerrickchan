@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kerrickchan/kerrickchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # I'm a Senior Frontend Engineer
  * 💼 I'm currently working in PaaS Company
  * 🌱 I'm currently studying Will learning AI (TensorflowJS)
@@ -28,8 +13,7 @@ Here are some ideas to get you started:
 
 [![My Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
+<br><br>
 
 ## Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/github-icon.svg" />](https://github.com/kerrickchan)
@@ -119,7 +103,7 @@ Here are some ideas to get you started:
 #### Databases
 ##### OLTP
 <img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/sql-icon.svg" />
+<img align="left" alt="MSSQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/sql-icon.svg" />
 <img align="left" alt="PostgreSQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mysql-icon.svg" />
 
@@ -151,17 +135,6 @@ N/A
 <br><br>
 
 ### Learning
-<!-- considering -->
-<!-- <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/flutter-icon.svg" /> -->
-<!-- bi direction -->
-<!-- <img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tableau-icon.svg" /> -->
-#### Drawing
-<img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/procreate-icon.png" />
-
-<br><br>
-
-#### Cloud
-<img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/amazon_aws-icon.svg" />
 
 <br><br>
 
@@ -170,6 +143,23 @@ N/A
 
 <br><br>
 
+#### Data Science
+<img align="left" alt="Tableau" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tableau-icon.svg" />
+<img align="left" alt="Puppeteer" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/puppeteer-icon.svg" />
+<img align="left" alt="Airflow" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/airflow-icon.svg" />
+
+<br><br>
+
+#### Cloud
+<img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/amazon_aws-icon.svg" />
+
+<br><br>
+
+#### Drawing
+<img align="left" alt="ProCreate" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/procreate-icon.png" />
+
+<!-- considering -->
+<!-- <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/flutter-icon.svg" /> -->
+
 ### Github Status
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=kerrickchan)](https://github.com/anuraghazra/github-readme-stats)
-
