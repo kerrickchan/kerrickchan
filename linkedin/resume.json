@@ -1,0 +1,489 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Chan Kwai Chung, Kerrick",
+    "label": "Interested in AI | TS | JS | ReactJS | React Native | NodeJS | Figma | Visual Effect | Mind Reset",
+    "image": "",
+    "email": "eric88ordinary@gmail.com",
+    "phone": "68067576",
+    "url": "https://github.com/kerrickchan",
+    "summary": "Senior Software Engineer in ReactJS, Angular, NodeJS. Provide Structured, Reusable, Quality Codes.",
+    "location": {
+      "countryCode": "HK",
+      "address": "Oi Man Estates, Ho Man Tin, Kowloon, Hong Kong SAR"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "kerrickchan",
+        "url": "https://www.linkedin.com/in/kerrickchan/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "YOOV",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-08-31",
+      "highlights": [
+        "YOOV PLUS Workflow Maintenance"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/yoov-internet-technology-official/",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "name": "Soepay",
+      "position": "Analysis Programmer",
+      "startDate": "2021-11-30",
+      "endDate": "2022-05-31",
+      "highlights": [
+        "Maintain Merchant Web Portal",
+        "Develop Online Shop UI"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/soepay/",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "name": "Hospital Authority",
+      "position": "Information Technology Programmer",
+      "startDate": "2020-11-30",
+      "endDate": "2021-11-30",
+      "highlights": [
+        "Develop NodeJS project for file comparison",
+        "UI enhancement on Roster System for Doctor",
+        "Tier 1, Tier 2, and Coordinator Support"
+      ],
+      "summary": "",
+      "url": "",
+      "location": "Kowloon Hospital, 382 Prince Edward Road West"
+    },
+    {
+      "name": "Taste of Asia Group Limited",
+      "position": "Programmer",
+      "startDate": "2019-08-31",
+      "endDate": "2020-11-30",
+      "highlights": [
+        "Maintenance of Internal OMS and CMS for shop order items using C# .Net Framework. add a new UI field with stored procedures logic in the database",
+        "Migrating data from the old system to ERP Cloud (M18, primary HCM)",
+        "Setup basic information of HCM",
+        "Develop Clocking API Project"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/taste-of-asia-group-limited/",
+      "location": "San Po Kong, Kowloon, Hong Kong"
+    },
+    {
+      "name": "Taste of Asia Group Limited",
+      "position": "IT Support Technician",
+      "startDate": "2018-10-31",
+      "endDate": "2019-07-31",
+      "highlights": [
+        "Support POS Menu update",
+        "Onsite shop troubleshooting problems",
+        "Desktop support in Office"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/taste-of-asia-group-limited/",
+      "location": "San Po Kong, Kowloon, Hong Kong"
+    },
+    {
+      "name": "HGC GlobalCentre Limited (HGCGC)",
+      "position": "Helpdesk Support",
+      "startDate": "2017-11-30",
+      "endDate": "2018-05-31",
+      "highlights": [
+        "Follow tickets for customers",
+        "Conversation between customer and technical team",
+        "Markdown tickets progress and report to supervisor"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/hgc-globalcentre-limited/",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "Huarong International Financial Holdings Limited",
+      "position": "Desktop Support Technician",
+      "startDate": "2017-05-31",
+      "endDate": "2017-11-30",
+      "highlights": [
+        "Troubleshoot common user issues",
+        "Basic network assistance",
+        "Maintain accounts of domain, email, virtual desktop",
+        "Access control of share drive. Basic setup Notebook, IP phone and VC"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/huarong-international-asset-management-limited/",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "HKT Teleservices (Formerly PCCW Teleservices)",
+      "position": "Engineer",
+      "startDate": "2016-10-31",
+      "endDate": "2017-03-31",
+      "highlights": [
+        "Follow government projects such as monitor replacement",
+        "PC batch replacement or deployment"
+      ],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/pccw-teleservices/",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "New Wealth Smart Technology Limited",
+      "position": "Engineer",
+      "startDate": "2016-03-31",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "summary": "Responsible for PC relocation service",
+      "url": "",
+      "location": "Hong Kong"
+    },
+    {
+      "name": "AppTask",
+      "position": "Mobile Application Developer",
+      "startDate": "2015-09-30",
+      "endDate": "2016-01-31",
+      "highlights": [],
+      "summary": "Revamp client website using PHP and Bootstrap",
+      "url": "https://www.linkedin.com/company/apptask/",
+      "location": "Hong Kong"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Middlesex University",
+      "area": "Business Information System",
+      "studyType": "Bachelor's degree",
+      "startDate": "2022-01-31",
+      "endDate": "2023-01-31",
+      "score": "Merit (Upper Second)",
+      "courses": []
+    },
+    {
+      "institution": "Staffordshire University",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2013-09-30",
+      "endDate": "2015-06-30",
+      "score": "Pass",
+      "courses": []
+    },
+    {
+      "institution": "Hong Kong Institute of Vocational Education",
+      "area": "Mobile and Internet Game Development",
+      "studyType": "Higher disploma",
+      "startDate": "2009-12-31",
+      "endDate": "2013-12-31",
+      "score": "Credit",
+      "courses": []
+    },
+    {
+      "institution": "SKH Tsoi Kung Po Secondary School",
+      "area": "Physical Sciences",
+      "studyType": "Form 5",
+      "startDate": "2004-12-31",
+      "endDate": "2009-12-31",
+      "score": "11",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Job Roles in the Cloud",
+      "issuer": "Amazon Web Services (AWS)",
+      "startDate": "2022-07-31"
+    },
+    {
+      "name": "Node.js Application Development \u0000(LFW211\u0000)",
+      "issuer": "The Linux Foundation",
+      "endDate": "2026-01-31",
+      "startDate": "2023-01-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stored Procedures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Onsite Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Material Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pos support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reactive Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Relocation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Selenium Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cucumber",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Figma",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mac",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Regular Expressions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ESLint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desktop Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Help Desk Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Normal"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "YOOV PLUS",
+      "startDate": "2022-11-30",
+      "summary": "No Code System Development Platform",
+      "url": "https://plus.yoov.com",
+      "endDate": "2022-11-30"
+    },
+    {
+      "name": "Pay by link UI for CS in Merchant Portal",
+      "startDate": "2022-03-31",
+      "summary": "Allow internal merchants purchase the company products and payment by email link",
+      "url": "https://mars.soepay.com",
+      "endDate": "2022-05-31"
+    },
+    {
+      "name": "Dynamic Website",
+      "startDate": "2021-06-30",
+      "summary": "Website with CMS that allow have news update. Component reusable design",
+      "url": "https://angliss.com.hk",
+      "endDate": "2021-09-30"
+    },
+    {
+      "name": "Clocking API Project",
+      "summary": "Consolidate punch card data from 2 POS, 1 Face ID, 1 Office Punch Card upload to HRMS cloud.",
+      "url": ""
+    },
+    {
+      "name": "Java Spring API Project",
+      "summary": "External vendor would like send information to our internal database. Created a API endpoint for storing data using Spring Boot",
+      "url": ""
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

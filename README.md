@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a Senior Frontend Engineer
+# I'm a Senior Software Engineer
  * 💼 I'm currently working in PaaS Company
  * 🌱 I'm currently studying Will learning AI (TensorflowJS)
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
@@ -17,9 +17,9 @@
 
 ## Connect with me
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/github-icon.svg" />](https://github.com/kerrickchan)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/linkedin-icon.svg" />](https://linkedin.com/in/kerrickchan)
-<!-- not longer updated -->
-<!-- [<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/resume.svg" />](https://registry.jsonresume.org/kerrickchan) -->
+<!-- not longer connected -->
+<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/linkedin-icon.svg" />](https://linkedin.com/in/kerrickchan) -->
+[<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/resume.svg" />](https://registry.jsonresume.org/kerrickchan)
 
 <br><br>
 
