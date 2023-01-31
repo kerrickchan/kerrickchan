@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Chan Kwai Chung, Kerrick",
-    "label": "Interested in AI | TS | JS | ReactJS | React Native | NodeJS | Figma | Visual Effect | Mind Reset",
+    "label": "Interested in AI | TS | JS | ReactJS | React Native | NodeJS",
     "image": "",
     "email": "eric88ordinary@gmail.com",
     "phone": "68067576",
     "url": "https://github.com/kerrickchan",
-    "summary": "Senior Software Engineer in ReactJS, Angular, NodeJS. Provide Structured, Reusable, Quality Codes.",
+    "summary": "Senior Software Engineer familar with ReactJS, Angular, NodeJS in JavaScript, TypeScript. Provide Structured, Reusable, Quality Codes.",
     "location": {
       "countryCode": "HK",
       "address": "Oi Man Estates, Ho Man Tin, Kowloon, Hong Kong SAR"
@@ -135,19 +135,11 @@
       "position": "Engineer",
       "startDate": "2016-03-31",
       "endDate": "2016-10-31",
-      "highlights": [],
-      "summary": "Responsible for PC relocation service",
+      "highlights": [
+        "Responsible for PC relocation service"
+      ],
+      "summary": "",
       "url": "",
-      "location": "Hong Kong"
-    },
-    {
-      "name": "AppTask",
-      "position": "Mobile Application Developer",
-      "startDate": "2015-09-30",
-      "endDate": "2016-01-31",
-      "highlights": [],
-      "summary": "Revamp client website using PHP and Bootstrap",
-      "url": "https://www.linkedin.com/company/apptask/",
       "location": "Hong Kong"
     }
   ],
