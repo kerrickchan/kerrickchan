@@ -7,7 +7,7 @@
     "email": "eric88ordinary@gmail.com",
     "phone": "68067576",
     "url": "https://github.com/kerrickchan",
-    "summary": "Senior Software Engineer familar with ReactJS, Angular, NodeJS in JavaScript, TypeScript. Provide Structured, Reusable, Quality Codes.",
+    "summary": "Senior Software Engineer familiar with ReactJS, Angular, NodeJS in JavaScript, TypeScript. Provide Structured, Reusable, Quality Codes.",
     "location": {
       "countryCode": "HK",
       "address": "Oi Man Estates, Ho Man Tin, Kowloon, Hong Kong SAR"
@@ -164,11 +164,11 @@
       "courses": []
     },
     {
-      "institution": "Hong Kong Institute of Vocational Education",
+      "institution": "Hong Kong Institute of Vocational Education (IVE)",
       "area": "Mobile and Internet Game Development",
       "studyType": "Higher disploma",
-      "startDate": "2009-12-31",
-      "endDate": "2013-12-31",
+      "startDate": "2009-09-30",
+      "endDate": "2013-06-30",
       "score": "Credit",
       "courses": []
     },
@@ -176,8 +176,8 @@
       "institution": "SKH Tsoi Kung Po Secondary School",
       "area": "Physical Sciences",
       "studyType": "Form 5",
-      "startDate": "2004-12-31",
-      "endDate": "2009-12-31",
+      "startDate": "2004-09-30",
+      "endDate": "2009-06-30",
       "score": "11",
       "courses": []
     }
@@ -390,11 +390,6 @@
     },
     {
       "name": "C#",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SASS",
       "level": "",
       "keywords": []
     },
