@@ -2,7 +2,7 @@
 
 # I'm a Senior Software Engineer
  * 💼 I'm currently working in PaaS Company
- * 🌱 I'm currently studying Will learning AI (TensorflowJS)
+ * 🌱 I'm currently learning ☁️ Cloud (AWS) 🤖AI
  * 👯 I’m looking to collaborate on Mobile and Web UI/UX design
  * 🤔 I’m dreaming for travel around the world
  * 💬 I'm optimistic about the prospects of TypeScript / JavaScript, NodeJS
