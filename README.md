@@ -13,7 +13,9 @@
 
 <h3 align="center">Core Skills</h3>
 <div align="center">
-  <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
+  <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
+  <img align="center" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/express-icon.svg" />
+  <img align="center" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
   <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nodejs-icon.svg" />
   <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
   <img align="center" alt="JestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/jestjs-icon.svg" />
@@ -26,7 +28,6 @@
 <h3 align="center">Other</h3>
 <div align="center">
   <img align="center" alt="RxJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/rxjs-icon.svg" />
-  <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
   <img align="center" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
   <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
 </div>
