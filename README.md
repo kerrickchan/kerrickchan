@@ -12,7 +12,7 @@
 
 <h3 align="left">Programming</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan&layout=pie)](https://github.com/kerrickchan)
 
 <h3 align="left">Core Skills</h3>
 <div align="left">
@@ -32,5 +32,3 @@
 <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
 <br><br>
-
-<h3 align="left">Connect with Me</h3>
