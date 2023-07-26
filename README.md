@@ -14,7 +14,7 @@
 <h3 align="center">Core Skills</h3>
 <div align="center">
   <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
-  <img align="center" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/express-icon.svg" />
+  <img align="center" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expressjs-icon.svg" />
   <img align="center" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
   <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nodejs-icon.svg" />
   <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
