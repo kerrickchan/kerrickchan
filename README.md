@@ -1,28 +1,48 @@
 <h1 align="center">Hi there 👋, I'm Kerrick</h1>
 
 <h3 align="center">Senior Software Engineer</h3>
-<br><br>
-
-<!--
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kerrickchan&label=Profile%20views&color=0e75b6&style=flat" alt="kerrickchan" />
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/kerrickchan?style=social"> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kerrickchan?style=social">
+  <a href="https://github.com/kerrickchan">
+    <img align="center" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/github-mark.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/kerrickchan/">
+    <img align="center" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/socials/linkedin-icon.svg" />
+  </a>
 </div>
--->
+<br><br>
 
 <h3 align="center">Core Skills</h3>
 <div align="center">
-  <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
-  <img align="center" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expressjs-icon.svg" />
-  <img align="center" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
-  <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nodejs-icon.svg" />
-  <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
-  <img align="center" alt="JestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/jestjs-icon.svg" />
-  <img align="center" alt="Tailwind CSS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tailwindcss-icon.svg" />
-  <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
-  <img align="center" alt="Expo" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expoio-icon.svg" />
-  <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
+  <a href="https://www.mongodb.com/">
+    <img align="center" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/mongodb-icon.svg" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img align="center" alt="ExpressJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expressjs-icon.svg" />
+  </a>
+  <a href="https://react.dev/">
+    <img align="center" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
+  </a>
+  <a href="https://nodejs.org">
+    <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nodejs-icon.svg" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
+  </a>
+  <a href="https://jestjs.io/">
+    <img align="center" alt="JestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/jestjs-icon.svg" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img align="center" alt="Tailwind CSS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tailwindcss-icon.svg" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
+  </a>
+  <a href="https://expo.dev/">
+    <img align="center" alt="Expo" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expoio-icon.svg" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
+  </a>
 </div>
 <br><br>
 
