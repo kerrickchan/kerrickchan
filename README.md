@@ -55,6 +55,6 @@
 
 <div align="center">
 
-  [![Top Langs](https://readme.kerrick.dev/api/top-langs/?username=kerrickchan&layout=pie)](https://github.com/kerrickchan/github-readme-stats)
+  [![Top Langs](https://readme.kerrick.dev/api/top-langs?username=kerrickchan&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
