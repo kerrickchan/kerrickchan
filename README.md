@@ -55,6 +55,6 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan&layout=pie)](https://github.com/kerrickchan)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan&layout=pie)](https://github.com/kerrickchan/github-readme-stats)
 
 </div>
