@@ -22,6 +22,7 @@
   <img align="center" alt="Tailwind CSS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tailwindcss-icon.svg" />
   <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
   <img align="center" alt="Expo" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expoio-icon.svg" />
+  <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
 </div>
 <br><br>
 
@@ -29,7 +30,6 @@
 <div align="center">
   <img align="center" alt="RxJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/rxjs-icon.svg" />
   <img align="center" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
-  <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
 </div>
 <br><br>
 
