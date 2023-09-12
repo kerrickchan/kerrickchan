@@ -25,20 +25,23 @@
   <a href="https://nodejs.org">
     <img align="center" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nodejs-icon.svg" />
   </a>
-  <a href="https://nestjs.com/">
-    <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
-  </a>
   <a href="https://jestjs.io/">
     <img align="center" alt="JestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/jestjs-icon.svg" />
   </a>
   <a href="https://tailwindcss.com/">
     <img align="center" alt="Tailwind CSS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tailwindcss-icon.svg" />
   </a>
+  <a href="https://nextjs.org">
+    <img align="center" alt="NextJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nextjs-icon.svg" />
+  </a>
   <a href="https://reactnative.dev/">
     <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
   </a>
   <a href="https://expo.dev/">
     <img align="center" alt="Expo" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/expoio-icon.svg" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img align="center" alt="NestJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nestjs-icon.svg" />
   </a>
   <a href="https://www.docker.com/">
     <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/docker-icon.svg" />
