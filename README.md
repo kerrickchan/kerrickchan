@@ -32,7 +32,7 @@
     <img align="center" alt="Tailwind CSS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/tailwindcss-icon.svg" />
   </a>
   <a href="https://nextjs.org">
-    <img align="center" alt="NextJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nextjs-icon.svg" />
+    <img align="center" alt="NextJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/nextjs.svg" />
   </a>
   <a href="https://reactnative.dev/">
     <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/reactjs-icon.svg" />
