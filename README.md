@@ -51,8 +51,12 @@
 
 <h3 align="center">Other</h3>
 <div align="center">
-  <img align="center" alt="RxJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/rxjs-icon.svg" />
-  <img align="center" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
+  <a href="https://rxjs.dev">
+    <img align="center" alt="RxJS" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/rxjs-icon.svg" />
+  </a>
+  <a href="https://www.postgresql.org">
+    <img align="center" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/kerrickchan/kerrickchan/main/skills/postgresql-icon.svg" />
+  </a>
 </div>
 <br><br>
 
