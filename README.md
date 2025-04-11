@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Kerrick
+        👋 Hi, my name is Eric (GitHub old name Kerrick)
       </h1>
     </summary>
   </ul>
