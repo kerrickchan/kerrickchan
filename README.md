@@ -12,7 +12,7 @@
 
 [![GitHub](https://shields.io/badge/GitHub-kerrickchan-181717?style=for-the-badge&logo=github)](https://github.com/kerrickchan)
 [![Medium](https://shields.io/badge/Medium-@kerrickchan-12100E?style=for-the-badge&logo=medium)](https://medium.com/@kerrickchan)
-[![LinkedIn](https://shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/oec88p)
+[![LinkedIn](https://shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kerrickchan)
 
 ---
 
