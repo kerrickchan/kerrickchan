@@ -35,13 +35,16 @@ Senior Software Engineer with 6+ years of experience building robust, scalable s
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
+<!--
+
 ---
 
+Hide GitHub Stats due to old cache not update problem
 ### 📈 GitHub Stats
-![GitHub's Stats](https://github-readme-stats.kerrickchan.com/api?username=kerrickchan&theme=blue-green)
+![GitHub stats](https://github-readme-stats.kerrickchan.com/api?username=kerrickchan&theme=blue-green)
 [![GitHub Streak](https://github-readme-streak-stats-gules-psi.vercel.app?user=kerrickchan&theme=dark)](https://git.io/streak-stats)
 ![GitHub's Top Languages](https://github-readme-stats.kerrickchan.com/api/top-langs?username=kerrickchan&theme=blue-green)
 
 ---
 
-<!-- Add a "Featured Projects" section if you want! -->
+-->
