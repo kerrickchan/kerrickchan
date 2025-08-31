@@ -38,9 +38,9 @@ Senior Software Engineer with 6+ years of experience building robust, scalable s
 ---
 
 ### 📈 GitHub Stats
-![kerrickchan's Stats](https://github-readme-stats.vercel.app/api?username=kerrickchan&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-![kerrickchan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerrickchan&theme=blue-green&hide_border=true)
-![kerrickchan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerrickchan&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![GitHub's Stats](https://github-readme-stats.kerrickchan.com/api?username=kerrickchan&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats-gules-psi.vercel.app?user=kerrickchan&theme=dark)](https://git.io/streak-stats)
+![GitHub's Top Languages](https://github-readme-stats.kerrickchan.com/api/top-langs?username=kerrickchan&theme=blue-green)
 
 ---
 
