@@ -4,13 +4,13 @@
 
 # 👋 Hi, my name is Eric
 
-**Senior Software Engineer | Fullstack & Cloud Solutions | Node.js, TypeScript, Go, Python**
+**Analyst Programmer | Fullstack & Cloud Solutions | Node.js, TypeScript, Go, Python**
 
 ---
 
 ### 🚀 Introduction
 
-Senior Software Engineer with 6+ years of experience building robust, scalable solutions for dynamic businesses. Expert in Node.js, PostgreSQL, cloud infrastructure, and AI-driven features. Skilled at API/microservice development and leading teams to success. Passionate about user experience, performance, and security.
+Analyst Programmer with 6+ years of experience designing, developing, and optimizing scalable solutions for dynamic businesses. Skilled in Node.js, PostgreSQL, cloud infrastructure, and AI-powered applications, with strong expertise in API and microservice development. I bridge technical execution with business needs, ensuring security, performance, and user experience. Passionate about innovation, team collaboration, and using technology to drive meaningful impact.
 
 ---
 
