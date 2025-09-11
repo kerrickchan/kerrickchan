@@ -16,7 +16,7 @@ Analyst Programmer with 6+ years of experience designing, developing, and optimi
 
 ### 🛠️ Skills
 
-<p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
   <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
@@ -33,7 +33,7 @@ Analyst Programmer with 6+ years of experience designing, developing, and optimi
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
+</div>
 
 <!--
 
